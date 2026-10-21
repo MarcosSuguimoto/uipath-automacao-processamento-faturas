@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Extracao_Faturas_PDF",
+  "ProjectType": "Process",
+  "Description": "Objetivo: Ler todas as faturas em formato PDF de uma pasta, extrair os dados principais (CNPJ, Número da Nota, Data e Valor Total), validar os campos e gerar um relatório consolidado em Excel com aba de erros/inconsistências.",
+  "MainFile": "Main.xaml"
+}

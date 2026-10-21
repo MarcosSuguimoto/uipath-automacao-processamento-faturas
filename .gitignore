@@ -1,0 +1,15 @@
+.local/
+.tmphost/
+.objects/
+.settings
+.screenshots/
+.settings/
+packages/
+*.log
+*.tmp
+~$*.xlsx
+~$*.docx
+Data/Temp/*
+!Data/Temp/.gitkeep
+.DS_Store
+Thumbs.db
